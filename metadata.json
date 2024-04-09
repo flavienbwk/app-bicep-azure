@@ -1,0 +1,11 @@
+{
+    "$schema": "https://aka.ms/azure-quickstart-templates-metadata-schema#",
+    "type": "QuickStart",
+    "itemDisplayName": "Deploy a serverless application with Bicep on Azure.",
+    "description": "Deploy an NGINX Container App application with Bicep on Azure.",
+    "summary": "Deploy a serverless application with Bicep on Azure.",
+    "githubUsername": "flavienbwk",
+    "environments": [
+        "AzureCloud"
+    ]
+}

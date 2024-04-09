@@ -34,15 +34,15 @@ Deploy a serverless application (NGINX container) with Bicep on Azure.
 
     a. Install Powershell 7
    
-        ```powershell
-        winget install --id Microsoft.Powershell --source winget
-        ```
+    ```powershell
+    winget install --id Microsoft.Powershell --source winget
+    ```
 
     b. Open a Powershell 7 window and install the Azure CLI
    
-        ```powershell
-        Install-Module Az
-        ```
+    ```powershell
+    Install-Module Az
+    ```
 
     </details>
 

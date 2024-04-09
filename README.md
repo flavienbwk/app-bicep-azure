@@ -70,7 +70,7 @@ Deploy a serverless application (NGINX container) with Bicep on Azure.
 
     </details>
 
-3. Change your in-use subscription ID
+3. Change in-use subscription ID
 
     <details>
     <summary>🐧 Procedure for Linux</summary>
